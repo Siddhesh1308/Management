@@ -15,7 +15,6 @@ namespace StudentManagement.Controllers
 
         public IActionResult Index()
         {
-            var abc;
             return View();
         }
 
